@@ -142,6 +142,7 @@ function buildCharts(sample) {
             axis: {range: [null, 10], tickcolor: "black"},
             bar: {color: "black"},
             bgcolor: "white",
+            borderwidth: 2,
             bordercolor: "gray",
             steps: [
               { range: [0, 2], color: "red" },
