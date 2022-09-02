@@ -138,7 +138,7 @@ function buildCharts(sample) {
           type: "indicator",
           mode: "gauge+number",
           value: wash_freq,
-          guage: {
+          gauge: {
             axis: {range: [null, 10], tickcolor: "black"},
             bar: {color: "black"},
             bgcolor: "white",
